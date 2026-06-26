@@ -62,6 +62,7 @@ class handler(BaseHTTPRequestHandler):
         <!DOCTYPE html>
         <html>
         <head>
+            <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <style>
                 body {{ font-family: sans-serif; text-align: center; padding: 40px 20px; background: #111; color: #eee; }}
